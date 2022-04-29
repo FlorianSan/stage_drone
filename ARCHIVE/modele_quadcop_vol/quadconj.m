@@ -1,0 +1,3 @@
+function v = quadconj(q)
+
+    v = [q(1); -q(2); -q(3); -q(4)];
